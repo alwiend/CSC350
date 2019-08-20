@@ -1,4 +1,6 @@
-the topics to be covered include but are not limited to:
+Course work for CSC 350 (Spring 2019) Computer Architecture at UVIC
+
+The topics to be covered include but are not limited to:
 
 - instruction sets and processor architecture
 - pipelining 
